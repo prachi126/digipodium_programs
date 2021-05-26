@@ -1,0 +1,11 @@
+name="prachi"
+name1='prachii'
+print(name)
+print(name1)
+nook='''there
+are 
+you'''
+print(nook)
+book="""hi
+there"""
+print(book)

@@ -1,0 +1,6 @@
+name=input("enter your name")
+address=input("enter ur address")
+contact=input("enter your contact")
+print(name)
+print(address)
+print(contact)
